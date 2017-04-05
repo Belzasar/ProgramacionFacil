@@ -1,0 +1,25 @@
+{
+  "name": "programacionfacil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Belzasar Miranda",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Belzasar/ProgramacionFacil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Belzasar/ProgramacionFacil/issues"
+  },
+  "homepage": "https://github.com/Belzasar/ProgramacionFacil#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "mongoose": "^4.9.3"
+  }
+}
